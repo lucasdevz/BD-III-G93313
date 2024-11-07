@@ -1,0 +1,1 @@
+# docker - container - iso - para usar sem instalar
